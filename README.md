@@ -1,2 +1,2 @@
 # bodic
-experiemnts with at coding
+experiemnts with ai coding
